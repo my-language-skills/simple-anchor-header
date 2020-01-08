@@ -1,12 +1,12 @@
-# Simple Clean Content
+# Simple Anchor Header
 
-* Contributors: @colomet, @tooulakis13, @davideC00
+* Contributors: @colomet
 * Donate link: https://opencollective.com/mylanguageskills
-* Tags: tinyMce-editor, tinyMce-editor-custom-button, remove-text-formating, remove-text-styling, cleaning, delete, wordpress plugin
+* Tags: anchors, header, link, wordpress plugin
 * Requires at least: 3.0.1
 * Tested up to: 4.9.9
 * Requires PHP: 5.6
-* Stable tag: 1.1
+* Stable tag: 0.1
 * License: GPLv3 or later
 * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 * Gutemberg: NO compatible
@@ -16,8 +16,13 @@ Add a button on the tinyMCE editor toolbar, that by clicking it, removes all sty
 
 ## Description
 
-This plugin adds a button on the tinyMCE editor toolbar. When editing a post, clicking on the "Clear all text style
-and formating" button, allows you to remove the text style and formating from the post content as well as the images.
+This plugin adds a button on the headers (h1, h2, h3, h4, h5, h6). When a user move the mouse over a header, a image link will be available and the title will became an anchors
+
+
+## Credits:
+Based on [WP Anchor Header](https://ko.wordpress.org/plugins/wp-anchor-header/)
+https://stackoverflow.com/questions/49327087/how-to-put-an-image-after-some-text-using-css and https://stackoverflow.com/questions/35739356/how-to-call-image-on-css
+
 
 ## Installation
 
@@ -34,11 +39,7 @@ and formating" button, allows you to remove the text style and formating from th
 
 ## Changelog
 
-### 1.1
--Fixed issues regarding spacing and new lines that were causing the plugin to malfunction.
--Rearrange structure of the JavaScript file file.
-
-### 1.0
-Take a post full of style and transfor in a plain text post.
+### 0.1
+From WP Anchor Header first modification (dashicons eliminated, image instead)
 
 ## Upgrade Notice
