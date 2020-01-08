@@ -6,7 +6,7 @@ h4[id]:hover a.anchorlink:before,
 h5[id]:hover a.anchorlink:before,
 h6[id]:hover a.anchorlink:before {
     content: "";
-    background: url(https://res.cloudinary.com/b4l/image/upload/v1578496572/admin-links_hhuizi.png) no-repeat;
+    background: url(https://res.cloudinary.com/b4l/image/upload/v1578496572/admin-links_32-8.png) no-repeat;
     width: 32px;
     height: 32px;
     background-size: contain;
