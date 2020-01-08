@@ -21,6 +21,8 @@ This plugin adds a button on the headers (h1, h2, h3, h4, h5, h6). When a user m
 
 ## Credits:
 Based on [WP Anchor Header](https://ko.wordpress.org/plugins/wp-anchor-header/)
+CDN for the image: [cloudinary.com](https://res.cloudinary.com/b4l/image/upload/v1578496572/admin-links_hhuizi.png)
+
 https://stackoverflow.com/questions/49327087/how-to-put-an-image-after-some-text-using-css and https://stackoverflow.com/questions/35739356/how-to-call-image-on-css
 
 
